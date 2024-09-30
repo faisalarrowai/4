@@ -3,7 +3,7 @@ appName: my_app_name
 appUniqueId: faisalarrowai/my_app_name
 description: This app will create slides presentation for you.
 appVersion: 1.0.0
-appRepoUrl: https://github.com/faisalarrowai/3.git
+appRepoUrl: https://github.com/faisalarrowai/4.git
 appIconUrl: https://storage.googleapis.com/codeboltai.appspot.com/agents/sBO8zR35KD.png
 appAuthorUserId: faisalarrowai
 forkedFrom: codeboltadmin/baseslidesapp
